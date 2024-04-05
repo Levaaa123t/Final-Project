@@ -61,7 +61,7 @@ ul {
 
 .list-item__link {
   position: relative;
-  font-size: 26px;
+  font-size: 20px;
   font-weight: 700;
   display: flex;
   flex-direction: column;
@@ -173,9 +173,21 @@ ul {
 }
 
 .info-block__text {
-  width: 40%;
+  width: 70%;
+  font-size: 26px;
+  line-height: 170%;
+}
+
+.info-block__text1 {
   font-size: 26px;
   line-height: 200%;
+}
+
+
+.info-block__text2 {
+  width: 70%;
+  font-size: 26px;
+  line-height: 170%;
 }
 
 .info-block__img {
@@ -230,7 +242,7 @@ ul {
 }
 
 .skill__info {
-  width: 150px;
+  width: 350px;
 }
 
 .skill__button {
